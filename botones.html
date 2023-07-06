@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tu página</title>
+  <style>
+    .back-to-top {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      padding: 10px 20px;
+      background-color: #f1f1f1;
+      color: #333;
+      text-decoration: none;
+      display: none;
+    }
+
+    .back-to-top.show {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <!-- Contenido de tu página -->
+
+  <a href="#" class="back-to-top">Volver arriba</a>
+
+  <script>
+    window.addEventListener('scroll', function() {
+      var button = document.querySelector('.back-to-top');
+      if (window.pageYOffset > 300) {
+        button.classList.add('show');
+      } else {
+        button.classList.remove('show');
+      }
+    });
+  </script>
+</body>
+</html>

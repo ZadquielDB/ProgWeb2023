@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+      
+    </title>
+  <style type="text/css">
+ h1 { color: black; }
+ p { color: black; }
+</style>
+</head>
+
+ <div style="text-align: center; font-size: 20px; background-color: gray;">
+    <img src="https://lh3.googleusercontent.com/03x3ZL6t3SgWPRO7CkxsnSbs7CetEI6CJuhYl4mDmz98WLjRsusxuNGE3UvW1c2TZPQyCpdhtlHrcI8AaFPMw-g=w1280" style="width: 1340px; height: 700px">
+    </div>
+
+<div style="background-color: black;">
+       <p>
+        &nbsp;  
+        &nbsp;        <!--ESTOS SON ESPACIOS EN BLANCO-->
+    </p>
+
+</div>
+    <body>
+    <header>
+        <div style="background-color: gainsboro;"> 
+            <U> <H3>INDICE</H3> </U> 
+      <nav>
+        <ul>
+          <li><a href="#VALLE DE ASMAT">VALLE DE ASMAT</a></li>
+          <li><a href="#LA BANDA">LA BANDA</a></li>
+          <li><a href="#SHOWS">SHOWS EN VIVO</a></li>
+          <li><a href="#FOTOS">FOTOS</a></li>
+          <li><a href="#FLYERS">FLYERS</a></li>
+          <li><a href="#REDES SOCIALES">REDES SOCIALES</a></li>
+        </ul>
+      </nav>
+  </div>
+    </header>
+<div style="background-color: black;"> 
+<p>  &nbsp; </p>
+</div>
+   <div style="text-align: center; font-size: 20PX; background-color: gainsboro;">
+           <H2>VALLE DE ASMAT</H2>
+ <P>Valle de Asmat es una banda de rock alternativo con tintes de post</P>
+ <P>punk grunge, indie rock. Su nombre hace referencia al conocido caso</P>
+ <P>de Michael Rockefeller, es un grupo de cinco jovenes formado en la</P> 
+ <P>ciudad de Tandil, Buenos Aires, Argentina, a mediados del 2022.</P>
+
+    </p>
+   </div> 
+   <div style="background-color: black;"> 
+    <p> &nbsp; </p> 
+</div>
+    
+    <div style="text-align: center; background-color:gainsboro;">
+        <img width="500" src="https://lh4.googleusercontent.com/gRQQR2HUrzQ6wgtWzI_t9G1Wcfys8n0TLFpPV-s6KLU1_XI0fj0NdQ1qAyOy7dH3RsOSUJd2Cc0iIZwvsQFsj0wP6POiAXZRSlPA4alyLqG1b4WvsfotVSB6Hz8Ido2s0Q=w1280"
+            alt="Valle de Asmat en vivo">
+    </div>
+    <div>
+     <div style="text-align: center;">
+       <p>
+       de izquierda a derecha <B>Matias Peltier</B>, <B>Felipe Sotelo</B>, <B>Kevin Matos</B>, <B>Matias Pablo</B>, <B>Zadquiel Di Biasse</B>
+       </p> 
+       </div>
+       <div style="background-color: black;">
+     <p>
+        &nbsp;
+        &nbsp;
+     </p> 
+     </div> 
+     <div style="font-size: 20px; background-color: darkcyan;">
+        <p> 
+            <h2>LA BANDA</h2>
+          El grupo desde sus inicios demostró las ganas de tocar y componer. Al comienzo siendo tan solo tres integrantes, <B>Kevin Matos</B> (Voz), <B>Matias Peltier</B> (Guitarra), y <B>Roy Arrieta</B> (Beatbox) ya se presentaban en vivo. Luego de unos meses el proyecto fue tomando forma y se suman <B>Felipe Sotelo</B> (Bateria), <B>Matias Pablo</B> (Bajo) y <B>Zadquiel Di Biasse</B> (Segunda guitarra) paulatinamente, mientras que Roy decide abrirse del proyecto. La banda ha grabado algunas de sus canciones, las cuales ya se encuentran disponibles en las plataformas musicales, y continua con sus conciertos en los diferentes espacios culturales de la ciudad de Tandil. Actualmente se prepara para grabar su primer disco de estudio. 
+        </p>   
+    </div>
+    <div style="background-color: black;">
+        <p>    
+           &nbsp;
+           &nbsp;
+          </p> 
+    </div>
+        <div style="font-size: 20px; background-color: gray;">
+        <H2>
+        SHOWS EN VIVO
+        </H2>
+        <ul>
+            <li> <input type="checkbox" /> Ferrocaril Sud   09/07/2022 </li>
+            <li> <input type="checkbox" /> Macanudo bar   2/12/2022 </li>
+            <li> <input type="checkbox" /> Cinemabar   29/12/2022 </li>
+            <li> <input type="checkbox" /> Brothers bar   19/02/2023 </li>
+            <li> <input type="checkbox" /> Berlina   23/02/2023 </li>
+            <li> <input type="checkbox" /> Macanudo bar   14/05/2023 </li>
+        </ul>
+    </div>
+    <div style="background-color: black;">
+        <p> &nbsp;
+        </p>
+    </div>
+      <div style="text-align: center; background-color: gainsboro;">
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/rlsIAxPM334" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+       </div>
+    <div style="background-color: black;">
+        <p> &nbsp; </p>
+    </div>
+         <main style="text-align: center; background-color: yellow;">
+        <H2> PROXIMA FECHA 11/06/2023 </H2> 
+        <h2> TEATRO DEL FUERTE </h2>
+         <P> &nbsp; </P> 
+    </main>
+    <MAIN style="background-color: gainsboro; text-align: center;">
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3172.525808922225!2d-59.139057424591144!3d-37.330058606548135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95911f97a5ac2bd7%3A0x8d04342b14053258!2sTeatro%20del%20Fuerte!5e0!3m2!1ses!2sar!4v1684726170115!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </main>
+    <div style="background-color: black;">
+<p>
+ &nbsp;
+</p>
+</div>
+<div style="text-align: center; font-size: 20px">
+<h2>FLYERS</h2>
+ </div> 
+<div style="background-color: black;">
+    <P> &nbsp;
+    </P>
+</div>
+<div style="background-color: orange;">
+      <img src="https://lh6.googleusercontent.com/IirYbTTByy_ANDsfJ0noDy-zKVLB0Uo8B7VyCfP-b2-yfGn6Qkaio95TDxMIjEyI1B6WXyMnHiSRXomaGDshhZ0=w1280" style="width: 262px; height: 500px;"> 
+        <img src="https://lh4.googleusercontent.com/--DCTQlxK1NMUead_m-WAg4uTvFdQ4OtX5aeWlrJldrhK00Z5zoBikXlyayTH3CpjZMRT0ohzB1sesJIzRauk2A=w1280" style="width: 262px; height: 500px"> 
+        <img src="https://lh6.googleusercontent.com/toWTwq_3tO3dWSTc8vbg68alh1WkuUTlM0J4wNT4ecyqOphx7DUb3sQHukYDhtb6OacJJosbXRvVGwyFhah8Z1O9IQHrL83g8FN0WeBBAXI2-LWLqY0jtlTW5Nw9drjQKg=w1280" style="width: 262PX; height: 500PX">
+        <img src="https://lh3.googleusercontent.com/MKKV00RNmhoZnNyxQ7EZqxfraHe4vINLBOvmjb_DpBq6rn5zn7A203Gxkxp7mzx1FLRCW0QvlwpArak-zNOQZ-Dlul5GksFvEdpg3t4MCbURx9J_6va-ccPKZN6evUlT6Q=w1280" style="width: 262px; height: 500px">
+        <img src="https://lh6.googleusercontent.com/hQVfkxynhSbVma483aXCLUKTPai5DOrD_2zXsRMIkxaNPm78ydqgg-cBSX1TXTnAr8JcF4AMXZOhytdpc6xiJNATmsR251WeK1gzUxd3FmWRvp_SVog-mbz2Lm4JTjzPSw=w1280" style="width: 262PX; height: 500PX">
+    </div>
+    <div style="background-color: black"> 
+        <P> &nbsp;
+        </P>
+    </div>
+        <div style="text-align: center; font-size: 20PX">
+        <H2> FOTOS </H2>
+    </div>
+        <div style="background-color: black;">
+            <P> &nbsp;
+            </P>
+        </div>
+        <div style="background-color: gainsboro; text-align: center;">
+        <img src="https://lh6.googleusercontent.com/LWsLdgxYQ-302kDQYVgAhGJpqS6PCJk4EY9Nb8DgzVG538m7wH-Eu90LY9duSyGCV_3uXrNUYIIYWq0HK5REdDF3JSIgXKue6m0UfF0sHi44994ALUUCcS7WPf6WmfnbKw=w1280" style="width: 500; height: 500PX"> 
+    </div>
+    <div style="background-color: yellowgreen;">
+        <p> &nbsp;
+        </p>
+    </div>
+         <img src="https://lh6.googleusercontent.com/VFPUqhb7kjFwqr0elrIRtwApbnQpvnRiR2YvDZpNzBzvPLt88GHNcy_HyCMrG7UZx7AAh4hlMFMS58_H_eKUOV-IOekbX7gvHGRNTcgUbrow7SGLNuPVgtiPLU4Dx1PTcg=w1280" style="width: 350px; height: 400px"> 
+         <img src="https://lh3.googleusercontent.com/60RwDzNlZoD7dF1pP-vv0W--N1O8Uv5_S0xQyEfK-HbVw7NyMic3exaZHTYtCBKtFClMW1A7bqylLpsoJPaFbhU9y-zMhnG324mXVAitNPpjLDoT3tJ0zy1L9_wTL1mLzg=w1280" style="width: 550PX; height: 400PX">
+         <img src="https://lh4.googleusercontent.com/r8enWcS4eqXoZOG0-EXd4wjh6phE13D3X8Z5H-a-E-1tTDr_ByH3C_Myd-TYSwyeOWzwjYkrP6iPF0EYtIt6uoP1CJkHz8irdoAV1z1LkOdQppVq9fhgikFoo-Ncq9_gaA=w1280" style="width: 400PX; height: 400PX">
+    </div>
+    <div style="background-color: yellowgreen;">
+        <P> &nbsp;
+        </P>
+    </div>
+       <div style="background-color: gainsboro; font-size: 20PX; text-align: center;">
+        <h2> REDES SOCIALES </h2>
+        <h3>Te dejamos las redes sociales de Valle de Asmat para que puedas seguirnos y enterarte de las proximas fechas y novedades!!</h3>
+    </div>
+    <div style="text-align: center; font-size: 50px; font-style: unset; color: black; background-color: black;"> 
+    <a href='https://open.spotify.com/artist/71CNHA5aSYt2uULWoHcrrC?si=CgNT55cCSCe7wbPtd-nTjg'> Spotify<a> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" style="width: 40px; height: 40px;">
+
+    <a href= "https://www.youtube.com/watch?v=_Pbnt2JaIHs"> Youtube<a> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/YouTube_social_white_squircle.svg" style="width: 40px; height: 40px">
+     
+    <a href="https://www.instagram.com/valledeasmat/">Instagram <a> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" style="width: 40px; height: 40px">
+    </div>
+    <p> &nbsp;
+    </p>
+
+    <div style=" font-size: 30px; text-anchor: 40px; text-align: center; background-color: gainsboro;"> 
+        <p> Muchas gracias por leer hasta el final, un abrazo asmatiense, y hasta la proxima fecha! </p>
+</div>
+
+   
+
+</body>
+
+</html>
